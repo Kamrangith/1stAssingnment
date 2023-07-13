@@ -1,3 +1,7 @@
+//kamran khan
+// Serial no.14
+//1st semister 
+//(BSCS)
 #include <stdio.h>
 
 int isPrime(int number) {
